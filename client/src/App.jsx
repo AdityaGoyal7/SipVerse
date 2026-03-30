@@ -232,7 +232,7 @@ function App() {
 
   useEffect(() => {
     const init = async () => {
-      const CONTRACT_ADDRESS = "0xEb584Df17E604C86c078c17206D70E9F68e76224"
+      const CONTRACT_ADDRESS = "0x093625eEa28fbd75dfA69b7632FcC461B8C7d25c"
       const CONTRACT_ABI = abi.abi
       try {
         const { ethereum } = window
